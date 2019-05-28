@@ -50,4 +50,4 @@ namespace SmartTicket.WebAppUI.Controllers
 
         }
     }
-}
+}  //deneme commit 
