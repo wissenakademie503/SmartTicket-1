@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\SmartTicket.WebAppUI",
-    "\\SmartTicket.WebAppUI\\Controllers"
+    ""
   ],
-  "SelectedNode": "\\SmartTicket.WebAppUI\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\SmartTicket.sln",
   "PreviewInSolutionExplorer": false
 }
