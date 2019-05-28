@@ -40,7 +40,7 @@ namespace SmartTicket.WebAppUI.Controllers
                     return View(user);
 
                 }
-                return RedirectToAction("okeybeybi");
+                return RedirectToAction("ok");
 
 
             }
@@ -51,3 +51,4 @@ namespace SmartTicket.WebAppUI.Controllers
         }
     }
 }  //deneme commit 
+//denemecommit2.ryhffhfhfghgf
