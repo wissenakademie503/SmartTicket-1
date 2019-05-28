@@ -40,7 +40,7 @@ namespace SmartTicket.WebAppUI.Controllers
                     return View(user);
 
                 }
-                return RedirectToAction("ok");
+                return RedirectToAction("okeybeybi");
 
 
             }
